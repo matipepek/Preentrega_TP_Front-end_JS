@@ -11,7 +11,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   font-size: 1.6rem;
-  background-color: #6e5a8e;
+  background-color: #1b2838;
   color: #fff7fb;
 
   display: flex;
@@ -56,7 +56,7 @@ h2 {
 
 header,
 footer {
-  background: #5c4a7a;
+  background: #171d25;
   color: #fff7fb;
   width: 100%;
 
@@ -107,11 +107,11 @@ footer .footer-list {
 /*                                   COLORES                                  */
 /* -------------------------------------------------------------------------- */
 .bg-primary {
-  background-color: #6e5a8e;
+  background-color: #0f1924;
 }
 
 .bg-secondary {
-  background-color: #f2c66d;
+  background-color: #679d1f;
 }
 
 .text-light {
@@ -158,8 +158,8 @@ footer .footer-list {
 }
 
 .card {
-  background-color: #8a79a8;
-  width: 40rem;
+  background-color: #16202d;
+  width: 45rem;
   border-radius: 1rem;
   overflow: hidden;
 
@@ -172,7 +172,7 @@ footer .footer-list {
 
 .card img {
   width: 100%;
-  height: 30rem;
+  height: 20rem;
   object-fit: cover;
 }
 
@@ -191,8 +191,8 @@ footer .footer-list {
 }
 
 .form-contacto {
-  background-color: #8a79a8;
-  color: #2a1e35;
+  background-color: #16202d;
+  color: #fff7fb;
 
   width: 100%;
   max-width: 50rem;
@@ -217,10 +217,10 @@ footer .footer-list {
   padding: 1.2rem;
   font-size: 1.6rem;
 
-  color: #2a1e35;
+  color: #1b2838;
   background-color: #fff7fb;
 
-  border: 2px solid #6e5a8e;
+  border: 2px solid #1b2838;
   border-radius: 0.8rem;
 
   outline: none;
